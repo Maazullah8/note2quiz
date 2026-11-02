@@ -21,7 +21,7 @@ Features
 
     Frontend: React, Tailwind CSS
 
-    AI Processing: @google/genai SDK (gemini-1.5-flash)
+    AI Processing: @google/genai SDK (gemini-3.5-flash)
 
     Deployment: Vercel
 
